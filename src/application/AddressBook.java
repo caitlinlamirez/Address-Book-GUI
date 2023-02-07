@@ -1,5 +1,4 @@
 // Name: Caitlin Lamirez
-// Course: CIS 2572-NET01
 // Date: 1/29/2023
 // Program: Address Book GUI
 package application;
